@@ -1,27 +1,27 @@
-Position	Player	Club	Age	Caps
-Goalkeeper	Aymen Dahmen	CS Sfaxien (TUN)	25	1
-Goalkeeper	Mouez Hassen	Club Africain (TUN)	27	14
-Goalkeeper	Balbouli	Etoile du Sahel (TUN)	38	67
-Goalkeeper	Bechir Ben Said	US Monastir (TUN)	27	7
-Defender	Mohamed Drager	Luzern (SUI)	26	33
-Defender	Wajdi Kechrida	Atromitos (GRE)	27	8
-Defender	Bilel Ifa	Kuwait SC (KUW)	32	36
-Defender	Montassar Talbi	Lorient (FRA)	24	20
-Defender	Dylan Bronn	Salernitana (ITA)	27	35
-Defender	Yassine Meriah	ES Tunis (TUN)	29	48
-Defender	Nader Ghandri	Club Africain (TUN)	27	1
-Defender	Ali Maaloul	Al Ahly (EGY)	32	82
-Defender	Ali Abdi	Caen (FRA)	28	4
-Midfielder	Ellyes Skhiri	Koln (GER)	27	45
-Midfielder	Aissa Laidouni	Ferencvaros (HUN)	25	25
-Midfielder	Ferjani Sassi	Al Duhail (QAT)	30	75
-Midfielder	Ghailene Chaalali	ES Tunis (TUN)	28	30
-Midfielder	Mohamed Ali Ben Romdhane	ES Tunis (TUN)	23	22
-Midfielder	Hannibal Mejbri	Birmingham City (ENG)	19	18
-Forward	Seifeddine Jaziri	Zamalek (EGY)	29	28
-Forward	Naim Sliti	Al-Ettifaq (SAU)	30	67
-Forward	Taha Yassine Khenissi	Kuwait SC (KUW)	30	43
-Forward	Anis Ben Slimane	Brondby (DEN)	21	24
-Forward	Issam Jebali	OB (DEN)	30	9
-Forward	Wahbi Khazri	Montpellier (FRA)	31	71
-Forward	Youssef Msakni	Al Arabi (QAT)	32	84
+Position	Player	Club	Age	Caps	Goals
+Goalkeeper	Aymen Dahmen	CS Sfaxien (TUN)	25	4	0
+Goalkeeper	Mouez Hassen	Club Africain (TUN)	27	20
+Goalkeeper	Balbouli	Etoile du Sahel (TUN)	38	73	0
+Goalkeeper	Bechir Ben Said	US Monastir (TUN)	27	10	0
+Defender	Mohamed Drager	Luzern (SUI)	26	33	3
+Defender	Wajdi Kechrida	Atromitos (GRE)	27	18	0
+Defender	Bilel Ifa	Kuwait SC (KUW)	32	39	0
+Defender	Montassar Talbi	Lorient (FRA)	24	22	1
+Defender	Dylan Bronn	Salernitana (ITA)	27	36	2
+Defender	Yassine Meriah	ES Tunis (TUN)	29	60	3
+Defender	Nader Ghandri	Club Africain (TUN)	27	7	0
+Defender	Ali Maaloul	Al Ahly (EGY)	32	82	2
+Defender	Ali Abdi	Caen (FRA)	28	9	1
+Midfielder	Ellyes Skhiri	Koln (GER)	27	48	3
+Midfielder	Aissa Laidouni	Ferencvaros (HUN)	25	25	1
+Midfielder	Ferjani Sassi	Al Duhail (QAT)	30	77	6
+Midfielder	Ghailene Chaalali	ES Tunis (TUN)	28	30	1
+Midfielder	Mohamed Ali Ben Romdhane	ES Tunis (TUN)	23	22	1
+Midfielder	Hannibal Mejbri	Birmingham City (ENG)	19	18	0
+Forward	Seifeddine Jaziri	Zamalek (EGY)	29	29	10
+Forward	Naim Sliti	Al-Ettifaq (SAU)	30	68	13
+Forward	Taha Yassine Khenissi	Kuwait SC (KUW)	30	48	9
+Forward	Anis Ben Slimane	Brondby (DEN)	21	24	4
+Forward	Issam Jebali	OB (DEN)	30	9	2
+Forward	Wahbi Khazri	Montpellier (FRA)	31	71	24
+Forward	Youssef Msakni	Al Arabi (QAT)	32	87	17

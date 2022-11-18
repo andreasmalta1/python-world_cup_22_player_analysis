@@ -1,27 +1,27 @@
-Position	Player	Club	Age	Caps
-Goalkeeper	Jordan Pickford	Everton (ENG)	28	45
-Goalkeeper	Nick Pope	Newcastle United (ENG)	30	10
-Goalkeeper	Aaron Ramsdale	Arsenal (ENG)	24	3
-Defender	Trent Alexander-Arnold	Liverpool (ENG)	24	17
-Defender	Conor Coady	Everton (ENG)	29	10
-Defender	Eric Dier	Tottenham (ENG)	28	47
-Defender	Harry Maguire	Manchester United (ENG)	29	48
-Defender	Luke Shaw	Manchester United (ENG)	27	23
-Defender	John Stones	Manchester City (ENG)	28	59
-Defender	Kieran Trippier	Newcastle United (ENG)	32	37
-Defender	Kyle Walker	Manchester City (ENG)	32	70
-Defender	Ben White	Arsenal (ENG)	25	4
-Midfielder	Jude Bellingham	Borussia Dortmund (GER)	19	17
-Midfielder	Conor Gallagher	Chelsea (ENG)	22	4
-Midfielder	Jordan Henderson	Liverpool (ENG)	32	70
-Midfielder	Mason Mount	Chelsea (ENG)	23	32
-Midfielder	Kalvin Phillips	Manchester City (ENG)	26	23
-Midfielder	Declan Rice	West Ham United (ENG)	23	34
-Forward	James Maddison	Leicester City (ENG)	25	1
-Forward	Callum Wilson	Newcastle (ENG)	30	4
-Forward	Phil Foden	Manchester City (ENG)	21	18
-Forward	Jack Grealish	Manchester City (ENG)	27	24
-Forward	Harry Kane	Tottenham (ENG)	29	75
-Forward	Marcus Rashford	Manchester United (ENG)	24	46
-Forward	Bukayo Saka	Arsenal (ENG)	21	20
-Forward	Raheem Sterling	Manchester City (ENG)	27	79
+Position	Player	Club	Age	Caps	Goals
+Goalkeeper	Jordan Pickford	Everton (ENG)	28	45	0
+Goalkeeper	Nick Pope	Newcastle United (ENG)	30	10	0
+Goalkeeper	Aaron Ramsdale	Arsenal (ENG)	24	3	0
+Defender	Trent Alexander-Arnold	Liverpool (ENG)	24	17	1
+Defender	Conor Coady	Everton (ENG)	29	10	1
+Defender	Eric Dier	Tottenham (ENG)	28	47	3
+Defender	Harry Maguire	Manchester United (ENG)	29	48	7
+Defender	Luke Shaw	Manchester United (ENG)	27	23	3
+Defender	John Stones	Manchester City (ENG)	28	59	9
+Defender	Kieran Trippier	Newcastle United (ENG)	32	37	1
+Defender	Kyle Walker	Manchester City (ENG)	32	70	0
+Defender	Ben White	Arsenal (ENG)	25	4	0
+Midfielder	Jude Bellingham	Borussia Dortmund (GER)	19	17	0
+Midfielder	Conor Gallagher	Chelsea (ENG)	22	4	0
+Midfielder	Jordan Henderson	Liverpool (ENG)	32	70	2
+Midfielder	Mason Mount	Chelsea (ENG)	23	32	5
+Midfielder	Kalvin Phillips	Manchester City (ENG)	26	23	0
+Midfielder	Declan Rice	West Ham United (ENG)	23	34	2
+Forward	James Maddison	Leicester City (ENG)	25	1	0
+Forward	Callum Wilson	Newcastle (ENG)	30	4	1
+Forward	Phil Foden	Manchester City (ENG)	21	18	2
+Forward	Jack Grealish	Manchester City (ENG)	27	24	1
+Forward	Harry Kane	Tottenham (ENG)	29	75	51
+Forward	Marcus Rashford	Manchester United (ENG)	24	46	12
+Forward	Bukayo Saka	Arsenal (ENG)	21	20	4
+Forward	Raheem Sterling	Manchester City (ENG)	27	79	19

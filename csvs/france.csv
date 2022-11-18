@@ -1,26 +1,26 @@
-Position	Player	Club	Age	Caps
-Goalkeeper	Alphonse Areola	West Ham (ENG)	29	5
-Goalkeeper	Hugo Lloris	Tottenham (ENG)	35	139
-Goalkeeper	Steve Mandanda	Rennes (FRA)	37	34
-Defender	Axel Disasi	Monaco (FRA)	24	0
-Defender	Lucas Hernandez	Bayern Munich (FRA)	26	32
-Defender	Theo Hernandez	AC Milan (ITA)	25	7
-Defender	Ibrahima Konate	Liverpool (ENG)	23	2
-Defender	Jules Kounde	Barcelona (SPA)	23	12
-Defender	Benjamin Pavard	Bayern Munich (GER)	26	46
-Defender	William Saliba	Arsenal (ENG)	21	7
-Defender	Dayot Upamecano	Bayern Munich (GER)	23	7
-Defender	Raphael Varane	Manchester United (ENG)	29	87
-Midfielder	Eduardo Camavinga	Real Madrid (SPA)	19	4
-Midfielder	Youssouf Fofana	AS Monaco (FRA)	23	2
-Midfielder	Matteo Guendouzi	Marseille (FRA)	23	6
-Midfielder	Adrien Rabiot	Juventus (ITA)	27	29
-Midfielder	Aurelien Tchouameni	Real Madrid (SPA)	22	14
-Midfielder	Jordan Veretout	Marseille (FRA)	29	5
-Forward	Karim Benzema	Real Madrid (FRA)	34	97
-Forward	Ousmane Dembele	Barcelona (FRA)	25	28
-Forward	Kingsley Coman	Bayern Munich (GER)	26	40
-Forward	Olivier Giroud	AC Milan (ITA)	36	114
-Forward	Antoine Griezmann	Atletico Madrid (SPA)	31	110
-Forward	Kylian Mbappe	PSG (FRA)	23	59
-Forward	Marcus Thuram	Bor. M'Gladbach (GER)	25	4
+Position	Player	Club	Age	Caps	Goals
+Goalkeeper	Alphonse Areola	West Ham (ENG)	29	5	0
+Goalkeeper	Hugo Lloris	Tottenham (ENG)	35	139	0
+Goalkeeper	Steve Mandanda	Rennes (FRA)	37	34	0
+Defender	Axel Disasi	Monaco (FRA)	24	0	0
+Defender	Lucas Hernandez	Bayern Munich (FRA)	26	32	0
+Defender	Theo Hernandez	AC Milan (ITA)	25	7	1
+Defender	Ibrahima Konate	Liverpool (ENG)	23	2	0
+Defender	Jules Kounde	Barcelona (SPA)	23	12	0
+Defender	Benjamin Pavard	Bayern Munich (GER)	26	46	2
+Defender	William Saliba	Arsenal (ENG)	21	7	0
+Defender	Dayot Upamecano	Bayern Munich (GER)	23	7	1
+Defender	Raphael Varane	Manchester United (ENG)	29	87	5
+Midfielder	Eduardo Camavinga	Real Madrid (SPA)	19	4	1
+Midfielder	Youssouf Fofana	AS Monaco (FRA)	23	2	0
+Midfielder	Matteo Guendouzi	Marseille (FRA)	23	6	1
+Midfielder	Adrien Rabiot	Juventus (ITA)	27	29	2
+Midfielder	Aurelien Tchouameni	Real Madrid (SPA)	22	14	1
+Midfielder	Jordan Veretout	Marseille (FRA)	29	5	0
+Forward	Karim Benzema	Real Madrid (FRA)	34	97	37
+Forward	Ousmane Dembele	Barcelona (FRA)	25	28	4
+Forward	Randal Kola Muani	Eintracht Frankfurt (GER)	23	2	0
+Forward	Olivier Giroud	AC Milan (ITA)	36	114	49
+Forward	Antoine Griezmann	Atletico Madrid (SPA)	31	110	42
+Forward	Kylian Mbappe	PSG (FRA)	23	59	28
+Forward	Marcus Thuram	Bor. M'Gladbach (GER)	25	4	0

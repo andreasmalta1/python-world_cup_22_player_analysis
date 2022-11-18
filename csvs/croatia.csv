@@ -1,27 +1,27 @@
-Position	Player	Club	Age	Caps
-Goalkeeper	Dominik Livakovic	Dinamo Zagreb (CRO)	27	33
-Goalkeeper	Ivo Grbic	Atletico Madrid (SPA)	26	2
-Goalkeeper	Ivica Ivusic	Osijek (CRO) 	27	5
-Defender	Josip Stanisic	Bayern Munich (GER)	22	6
-Defender	Borna Barisic	Rangers (SCO)	29	27
-Defender	Martin Erlic	Sassuolo (ITA)	24	3
-Defender	Dejan Lovren	Zenit St Petersburg (ITA)	33	71
-Defender	Borna Sosa	VfB Stuttgart (GER)	24	8
-Defender	Josko Gvardiol	RB Leipzig (GER)	20	12
-Defender	Domagoj Vida	AEK Athens (GRE)	33	99
-Defender	Josip Juranovic	Celtic (SCO)	27	21
-Defender	Josip Sutalo	Dinamo Zagreb (CRO)	22	3
-Midfielder	Lovro Majer	Rennes (FRA)	24	10
-Midfielder	Mateo Kovacic	Chelsea (ENG)	28	83
-Midfielder	Luka Modric	Real Madrid (SPA)	37	154
-Midfielder	Luka Sucic	RB Salzburg (AUS)	20	3
-Midfielder	Marcelo Brozovic	Inter Milan (ITA) 	29	76
-Midfielder	Nikola Vlasic	Torino (ITA)	25	41
-Midfielder	Mario Pasalic	Atalanta (ITA)	27	42
-Midfielder	Ivan Perisic	Tottenham Hotspur (ENG)	33	115
-Midfielder	Kristijan Jakic	Eintracht Frankfurt (GER)	25	4
-Forward	Andrej Kramaric	Hoffenheim (GER)	31	73
-Forward	Marko Livaja	Hadjuk Split (CRO)	29	14
-Forward	Bruno Petkovic	Dinamo Zagreb (CRO)	28	22
-Forward	Ante Budimir	Osasuna (ENG)	31	15
-Forward	Mislav Orsic	Dinamo Zagreb (CRO)	29	20
+Position	Player	Club	Age	Caps	Goals
+Goalkeeper	Dominik Livakovic	Dinamo Zagreb (CRO)	27	34	0
+Goalkeeper	Ivo Grbic	Atletico Madrid (SPA)	26	2	0
+Goalkeeper	Ivica Ivusic	Osijek (CRO) 	27	5	0
+Defender	Josip Stanisic	Bayern Munich (GER)	22	7	0
+Defender	Borna Barisic	Rangers (SCO)	29	28	1
+Defender	Martin Erlic	Sassuolo (ITA)	24	4	0
+Defender	Dejan Lovren	Zenit St Petersburg (ITA)	33	72	5
+Defender	Borna Sosa	VfB Stuttgart (GER)	24	8	1
+Defender	Josko Gvardiol	RB Leipzig (GER)	20	12	1
+Defender	Domagoj Vida	AEK Athens (GRE)	33	100	4
+Defender	Josip Juranovic	Celtic (SCO)	27	21	0
+Defender	Josip Sutalo	Dinamo Zagreb (CRO)	22	3	0
+Midfielder	Lovro Majer	Rennes (FRA)	24	11	3
+Midfielder	Mateo Kovacic	Chelsea (ENG)	28	84	3
+Midfielder	Luka Modric	Real Madrid (SPA)	37	155	23
+Midfielder	Luka Sucic	RB Salzburg (AUS)	20	4	0
+Midfielder	Marcelo Brozovic	Inter Milan (ITA) 	29	77	7
+Midfielder	Nikola Vlasic	Torino (ITA)	25	42	7
+Midfielder	Mario Pasalic	Atalanta (ITA)	27	43	7
+Midfielder	Ivan Perisic	Tottenham Hotspur (ENG)	33	116	32
+Midfielder	Kristijan Jakic	Eintracht Frankfurt (GER)	25	4	0
+Forward	Andrej Kramaric	Hoffenheim (GER)	31	74	20
+Forward	Marko Livaja	Hadjuk Split (CRO)	29	14	3
+Forward	Bruno Petkovic	Dinamo Zagreb (CRO)	28	23	6
+Forward	Ante Budimir	Osasuna (ENG)	31	15	1
+Forward	Mislav Orsic	Dinamo Zagreb (CRO)	29	21	1
