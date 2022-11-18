@@ -1,27 +1,27 @@
-Position	Player	Club	Age	Caps
-Goalkeeper	Simon Ngapandouetnbu	Marseille (FRA)	19	0
-Goalkeeper	Devis Epassy	Abha (KSA)	29	5
-Goalkeeper	Andre Onana	Inter Milan (ITA) 	26	31
-Defender	Nicolas Nkoulou	Aris (GRE)	32	76
-Defender	Nouhou Tolo	Seattle Sounders (USA)	25	16
-Defender	Oliver Mbaizo	Philadelphia Union (USA)	25	11
-Defender	Collins Fai	Al Tai (KSA)	29	50
-Defender	Jean-Charles Castelletto	Nantes (FRA)	27	12
-Defender	Enzo Ebosse	Udinese (ITA)	23	1
-Defender	Christopher Wooh	Rennes (FRA)	21	1
-Midfielder	Olivier Ntcham	Swansea City (WAL)	26	1
-Midfielder	Pierre Kunde	Olympiakos (GRE)	27	30
-Midfielder	Martin Hongla	Verona (ITA) 	24	17
-Midfielder	Samuel Gouet	Mechelen (BEL)	24	21
-Midfielder	Gael Ondoa	Hannover 96 (GER)	26	3
-Midfielder	Andre-Franck Zambo-Anguissa	Napoli (ITA)	26	42
-Forward	Moumi Ngamaleu	Dynamo Moscow (RUS)	28	21
-Forward	Jerome Ngom Mbekeli	Apejec FC (CAM)	24	0
-Forward	Jean-Pierre Nsame	Young Boys (SWI)	29	3
-Forward	Georges-Kevin Nkoudou	Besiktas (TUR)	27	1
-Forward	Vincent Aboubakar	Al Nassr (KSA)	30	88
-Forward	Karl Toko Ekambi	Lyon (FRA)	30	50
-Forward	Bryan Mbeumo	Brentford (ENG)	23	1
-Forward	Eric Maxim Choupo-Moting 	Bayern Munich (GER)	33	68
-Forward	Christian Bassogog	SH Shenhua (CHI)	27	42
-Forward	Marou Souaibou	Coton Sport FC (CAM)	21	0
+Position	Player	Club	Age	Caps	Goals
+Goalkeeper	Simon Ngapandouetnbu	Marseille (FRA)	19	0	0
+Goalkeeper	Devis Epassy	Abha (KSA)	29	5	0
+Goalkeeper	Andre Onana	Inter Milan (ITA) 	26	32	0
+Defender	Nicolas Nkoulou	Aris (GRE)	32	75	2
+Defender	Nouhou Tolo	Seattle Sounders (USA)	25	17	0
+Defender	Oliver Mbaizo	Philadelphia Union (USA)	25	11	0
+Defender	Collins Fai	Al Tai (KSA)	29	50	0
+Defender	Jean-Charles Castelletto	Nantes (FRA)	27	13	0
+Defender	Enzo Ebosse	Udinese (ITA)	23	1	0
+Defender	Christopher Wooh	Rennes (FRA)	21	1	0
+Midfielder	Olivier Ntcham	Swansea City (WAL)	26	2	0
+Midfielder	Pierre Kunde	Olympiakos (GRE)	27	31	1
+Midfielder	Martin Hongla	Verona (ITA) 	24	18	0
+Midfielder	Samuel Gouet	Mechelen (BEL)	24	21	0
+Midfielder	Gael Ondoa	Hannover 96 (GER)	26	4	0
+Midfielder	Andre-Franck Zambo-Anguissa	Napoli (ITA)	26	42	5
+Forward	Moumi Ngamaleu	Dynamo Moscow (RUS)	28	41	4
+Forward	Jerome Ngom Mbekeli	Apejec FC (CAM)	24	2	0
+Forward	Jean-Pierre Nsame	Young Boys (SWI)	29	4	0
+Forward	Georges-Kevin Nkoudou	Besiktas (TUR)	27	1	0
+Forward	Vincent Aboubakar	Al Nassr (KSA)	30	89	33
+Forward	Karl Toko Ekambi	Lyon (FRA)	30	50	12
+Forward	Bryan Mbeumo	Brentford (ENG)	23	2	0
+Forward	Eric Maxim Choupo-Moting 	Bayern Munich (GER)	33	68	18
+Forward	Christian Bassogog	SH Shenhua (CHI)	27	42	7
+Forward	Marou Souaibou	Coton Sport FC (CAM)	21	3	1

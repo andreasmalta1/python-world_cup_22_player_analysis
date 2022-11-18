@@ -1,27 +1,27 @@
-Position	Player	Club	Age	Caps
-Goalkeeper	Yassine Bono	Sevilla (SPA)	31	45
-Goalkeeper	Munir	Al Wehda (KSA)	33	43
-Goalkeeper	Ahmed Reda Tagnaouti	Wydad (MOR)	26	3
-Defender	Achraf Hakimi	Real Madrid (SPA)	24	53
-Defender	Noussair Mazraoui	Bayern Munich (GER)	24	14
-Defender	Romain Saiss	Besiktas (TUR)	32	65
-Defender	Nayef Aguerd	West Ham (ENG)	26	21
-Defender	Achraf Dari	Brest (FRA)	23	4
-Defender	Jawad El-Yamiq	Valladolid (SPA)	30	11
-Defender	Yahi Attain-Allal	Wydad (MOR)	27	1
-Defender	Badr Benoun	Qatar SC (QAT)	29	3
-Midfielder	Sofyan Amrabat	Fiorentina (ITA)	26	38
-Midfielder	Selim Ramallah	Standard Liege (BEL)	25	23
-Midfielder	Abdelhamid Sabiri	Sampdoria (ITA)	25	2
-Midfielder	Azzedine Ounahi	Angers (FRA)	22	9
-Midfielder	Bilel El Khanouss	Genk (BEL)	18	0
-Midfielder	Yahya Jabrane	Wydad (MOR)	31	4
-Forward	Hakim Ziyech	Chelsea (ENG)	24	42
-Forward	Youssef En-Nesyri	Sevilla (SPA)	25	49
-Forward	Sofiane Boufal	Angers (FRA)	29	31
-Forward	Zaharia Aboukhlal	Toulouse (FRA)	22	12
-Forward	EZ Abde	Osasuna (SPA)	20	1
-Forward	Amine Harit	Marseille (FRA)	25	16
-Forward	Ilias Chair	QPR (ENG)	25	10
-Forward	Abderrazak Hamdallah	Al Ittihad (KSA)	31	17
-Forward	Walid Cheddira	Bari (ITA)	24	2
+Position	Player	Club	Age	Caps	Goals
+Goalkeeper	Yassine Bono	Sevilla (SPA)	31	45	0
+Goalkeeper	Munir	Al Wehda (KSA)	33	43	0
+Goalkeeper	Ahmed Reda Tagnaouti	Wydad (MOR)	26	3	0
+Defender	Achraf Hakimi	Real Madrid (SPA)	24	53	8
+Defender	Noussair Mazraoui	Bayern Munich (GER)	24	14	2
+Defender	Romain Saiss	Besiktas (TUR)	32	65	11
+Defender	Nayef Aguerd	West Ham (ENG)	26	25	1
+Defender	Achraf Dari	Brest (FRA)	23	4	0
+Defender	Jawad El-Yamiq	Valladolid (SPA)	30	18	2
+Defender	Yahi Attain-Allal	Wydad (MOR)	27	3	0
+Defender	Badr Benoun	Qatar SC (QAT)	29	15	5
+Midfielder	Sofyan Amrabat	Fiorentina (ITA)	26	38	0
+Midfielder	Selim Ramallah	Standard Liege (BEL)	25	23	4
+Midfielder	Abdelhamid Sabiri	Sampdoria (ITA)	25	2	1
+Midfielder	Azzedine Ounahi	Angers (FRA)	22	9	2
+Midfielder	Bilel El Khanouss	Genk (BEL)	18	0	0
+Midfielder	Yahya Jabrane	Wydad (MOR)	31	16	2
+Forward	Hakim Ziyech	Chelsea (ENG)	24	42	17
+Forward	Youssef En-Nesyri	Sevilla (SPA)	25	49	14
+Forward	Sofiane Boufal	Angers (FRA)	29	31	5
+Forward	Zaharia Aboukhlal	Toulouse (FRA)	22	13	2
+Forward	EZ Abde	Osasuna (SPA)	20	2	0
+Forward	Anass Zarouty	Burnley (ENG)	22	0	0
+Forward	Ilias Chair	QPR (ENG)	25	10	1
+Forward	Abderrazak Hamdallah	Al Ittihad (KSA)	31	17	6
+Forward	Walid Cheddira	Bari (ITA)	24	2	0

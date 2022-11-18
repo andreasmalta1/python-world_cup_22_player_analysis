@@ -1,27 +1,27 @@
-Position	Player	Club	Age	Caps
-Goalkeeper	Kasper Schmeichel	Nice (FRA) 	35	86
-Goalkeeper	Oliver Christensen 	Hertha Berlin (GER)	23	1
-Goalkeeper	Frederik Ronnow 	Union Berlin (GER)	30	8
-Defender	Andreas Christensen	Barcelona (SPA) 	26	58
-Defender	Simon Kjaer	AC Milan (ITA)	33	121
-Defender	Jens Larsen	Trabzonspor (TUR)	31	49
-Defender	Joachim Andersen	Crystal Palace (ENG)	26	19
-Defender	Victor Nelsson 	Galatasaray (TUR)	24	7
-Defender	Alexander Bah	Benfica (POR)	24	4
-Defender	Rasmus Kristensen	Leeds United (ENG)	25	10
-Defender	Joakim Maehle	Atalanta (ITA)	25	31
-Midfielder	Daniel Wass	Brondby (DEN)	33	44
-Midfielder	Thomas Delaney 	Sevilla (SPA) 	26	20
-Midfielder	Christian Eriksen	Manchester United (ENG)	30	117
-Midfielder	Pierre-Emile Hojbjerg	Tottenham (ENG) 	27	60
-Midfielder	Mathias Jensen 	Brentford (ENG)	26	20
-Midfielder	Christian Norgaard	Brentford (ENG) 	28	17
-Midfielder	Robert Skov	Hoffenheim (GER)	26	11
-Midfielder	Mikkel Damsgaard	Brentford (ENG)	22	18
-Midfielder	Jesper Lindstrom	Eintracht Frankfurt (GER)	22	6
-Forward	Jonas Wind	Wolfsburg (GER) 	23	15
-Forward	Andreas Cornelius 	Copenhagen (DEN)	29	41
-Forward	Andreas Olsen	Club Brugge (BEL)	22	23
-Forward	Martin Braithwaite 	Espanyol (SPA) 	31	62
-Forward	Yussuf Poulsen	RB Leipzig  (GER) 	28	68
-Forward	Kasper Dolberg 	Sevilla (SPA)	25	37
+Position	Player	Club	Age	Caps	Goals
+Goalkeeper	Kasper Schmeichel	Nice (FRA) 	35	86	0
+Goalkeeper	Oliver Christensen 	Hertha Berlin (GER)	23	1	0
+Goalkeeper	Frederik Ronnow 	Union Berlin (GER)	30	8	0
+Defender	Andreas Christensen	Barcelona (SPA) 	26	59	2
+Defender	Simon Kjaer	AC Milan (ITA)	33	121	5
+Defender	Jens Larsen	Trabzonspor (TUR)	31	49	3
+Defender	Joachim Andersen	Crystal Palace (ENG)	26	19	0
+Defender	Victor Nelsson 	Galatasaray (TUR)	24	7	0
+Defender	Alexander Bah	Benfica (POR)	24	4	1
+Defender	Rasmus Kristensen	Leeds United (ENG)	25	10	0
+Defender	Joakim Maehle	Atalanta (ITA)	25	31	9
+Midfielder	Daniel Wass	Brondby (DEN)	33	44	1
+Midfielder	Thomas Delaney 	Sevilla (SPA) 	31	71	7
+Midfielder	Christian Eriksen	Manchester United (ENG)	30	117	39
+Midfielder	Pierre-Emile Hojbjerg	Tottenham (ENG) 	27	60	5
+Midfielder	Mathias Jensen 	Brentford (ENG)	26	20	1
+Midfielder	Christian Norgaard	Brentford (ENG) 	28	17	1
+Midfielder	Robert Skov	Hoffenheim (GER)	26	11	5
+Midfielder	Mikkel Damsgaard	Brentford (ENG)	22	18	4
+Midfielder	Jesper Lindstrom	Eintracht Frankfurt (GER)	22	6	1
+Forward	Jonas Wind	Wolfsburg (GER) 	23	15	5
+Forward	Andreas Cornelius 	Copenhagen (DEN)	29	43	13
+Forward	Andreas Olsen	Club Brugge (BEL)	22	23	8
+Forward	Martin Braithwaite 	Espanyol (SPA) 	31	62	10
+Forward	Yussuf Poulsen	RB Leipzig  (GER) 	28	69	11
+Forward	Kasper Dolberg 	Sevilla (SPA)	25	37	11

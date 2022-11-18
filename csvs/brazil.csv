@@ -1,27 +1,27 @@
-Position	Player	Club	Age	Caps
-Goalkeeper	Alisson	Liverpool (ENG)	30	56
-Goalkeeper	Ederson	Manchester City (ENG)	29	18
-Goalkeeper	Weverton	Palmeiras (BRA)	34	11
-Defender	Marquinhos	PSG (FRA) 	28	70
-Defender	Eder Militao	Real Madrid (SPA)	24	23
-Defender	Thiago Silva	Chelsea (ENG)	38	108
-Defender	Danilo	Juventus (ITA)	24	15
-Defender	Alex Telles	Sevilla (SPA)	29	7
-Defender	Dani Alves	Pumas UNAM (MEX)	39	125
-Defender	Alex Sandro	Juventus (ITA)	31	37
-Defender	Bremer	Juventus (ITA)	25	1
-Midfielder	Fabinho	Liverpool (ENG)	28	28
-Midfielder	Casemiro	Manchester United (ENG)	30	64
-Midfielder	Bruno Guimaraes	Newcastle United (ENG)	24	8
-Midfielder	Fred	Manchester United (ENG)	29	27
-Midfielder	Lucas Paqueta	West Ham (ENG)	25	34
-Midfielder	Everton Ribeiro	Flamengo (BRA)	33	22
-Forward	Gabriel Martinelli	Arsenal (ENG)	21	3
-Forward	Vinicius Jr.	Real Madrid (SPA)	22	15
-Forward	Neymar	PSG (FRA)	30	120
-Forward	Antony	Manchester United (ENG)	22	10
-Forward	Rodrygo	Real Madrid (SPA)	21	6
-Forward	Raphinha	Barcelona (SPA)	25	10
-Forward	Richarlison	Tottenham (ENG)	25	37
-Forward	Pedro	Flamengo (BRA)	25	2
-Forward	Gabriel Jesus	Arsenal (ENG)	25	56
+Position	Player	Club	Age	Caps	Goals
+Goalkeeper	Alisson	Liverpool (ENG)	30	57	0
+Goalkeeper	Ederson	Manchester City (ENG)	29	18	0
+Goalkeeper	Weverton	Palmeiras (BRA)	34	8	0
+Defender	Marquinhos	PSG (FRA) 	28	71	5
+Defender	Eder Militao	Real Madrid (SPA)	24	23	1
+Defender	Thiago Silva	Chelsea (ENG)	38	109	7
+Defender	Danilo	Juventus (ITA)	24	46	1
+Defender	Alex Telles	Sevilla (SPA)	29	8	0
+Defender	Dani Alves	Pumas UNAM (MEX)	39	125	8
+Defender	Alex Sandro	Juventus (ITA)	31	37	2
+Defender	Bremer	Juventus (ITA)	25	1	0
+Midfielder	Fabinho	Liverpool (ENG)	28	28	0
+Midfielder	Casemiro	Manchester United (ENG)	30	65	5
+Midfielder	Bruno Guimaraes	Newcastle United (ENG)	24	8	1
+Midfielder	Fred	Manchester United (ENG)	29	28	0
+Midfielder	Lucas Paqueta	West Ham (ENG)	25	35	7
+Midfielder	Everton Ribeiro	Flamengo (BRA)	33	22	3
+Forward	Gabriel Martinelli	Arsenal (ENG)	21	3	0
+Forward	Vinicius Jr.	Real Madrid (SPA)	22	16	1
+Forward	Neymar	PSG (FRA)	30	121	75
+Forward	Antony	Manchester United (ENG)	22	11	2
+Forward	Rodrygo	Real Madrid (SPA)	21	7	1
+Forward	Raphinha	Barcelona (SPA)	25	11	5
+Forward	Richarlison	Tottenham (ENG)	25	38	17
+Forward	Pedro	Flamengo (BRA)	25	2	1
+Forward	Gabriel Jesus	Arsenal (ENG)	25	56	19

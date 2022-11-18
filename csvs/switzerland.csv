@@ -1,27 +1,27 @@
-Position	Player	Club	Age	Caps
-Goalkeeper	Yann Sommer	Borussia Monchengladbach (GER)	33	76
-Goalkeeper	Gregor Kobel	Borussia Dortmund (GER)	24	3
-Goalkeeper	Philipp Kohn	RB Salzburg (AUT)	24	0
-Goalkeeper	Jonas Omlin	Montpellier (FRA) 	24	3
-Defender	Fabian Schar	Newcastle (ENG)	30	72
-Defender	Manuel Akanji 	Manchester City (ENG)	27	42
-Defender	Ricardo Rodriguez	Torino (ITA) 	30	100
-Defender	Nico Elvedi	Borussia Monchengladbach (GER)	26	40
-Defender	Silvan Widmer	Mainz (GER)	29	33
-Defender	Eray Comert 	Valencia (SPA)	24	9
-Midfielder	Granit Xhaka	Arsenal (ENG)	30	106
-Midfielder	Remo Freuler	Nottingham Forest (ENG)	30	48
-Midfielder	Fabian Frei	Basel (SUI)	33	22
-Midfielder	Denis Zakaria	Chelsea (ENG)	25	42
-Midfielder	Djibril Sow	Frankfurt (GER)	25	32
-Midfielder	Renato Steffen	Lugano (SUI) 	30	27
-Midfielder	Michel Aebischer	Bologna (ITA)	25	11
-Midfielder	Ardon Jashari	Luzern (SWI) 	20	1
-Midfielder	Fabian Rieder	Young Boys	20	0
-Midfielder	Xherdan Shaqiri 	Chicago Fire (USA)	31	108
-Midfielder	Ruben Vargas	Augsburg (GER)	24	26
-Midfielder	Edimilson Fernandes	Mainz (GER)	26	22
-Forward	Noah Okafor	RB Salzburg (AUT)	22	8
-Forward	Christian Fassnacht	Young Boys (SUI)	28	15
-Forward	Haris Seferovic	Galatasaray (TUR)	30	88
-Forward	Breel Embolo	Monaco (FRA)	25	58
+Position	Player	Club	Age	Caps	Goals
+Goalkeeper	Yann Sommer	Borussia Monchengladbach (GER)	33	77	0
+Goalkeeper	Gregor Kobel	Borussia Dortmund (GER)	24	3	0
+Goalkeeper	Philipp Kohn	RB Salzburg (AUT)	24	0	0
+Goalkeeper	Jonas Omlin	Montpellier (FRA) 	24	4	0
+Defender	Fabian Schar	Newcastle (ENG)	30	73	8
+Defender	Manuel Akanji 	Manchester City (ENG)	27	43	1
+Defender	Ricardo Rodriguez	Torino (ITA) 	30	100	9
+Defender	Nico Elvedi	Borussia Monchengladbach (GER)	26	41	1
+Defender	Silvan Widmer	Mainz (GER)	29	34	2
+Defender	Eray Comert 	Valencia (SPA)	24	10	0
+Midfielder	Granit Xhaka	Arsenal (ENG)	30	107	12
+Midfielder	Remo Freuler	Nottingham Forest (ENG)	30	49	5
+Midfielder	Fabian Frei	Basel (SUI)	33	22	3
+Midfielder	Denis Zakaria	Chelsea (ENG)	25	43	3
+Midfielder	Djibril Sow	Frankfurt (GER)	25	32	0
+Midfielder	Renato Steffen	Lugano (SUI) 	30	28	1
+Midfielder	Michel Aebischer	Bologna (ITA)	25	12	0
+Midfielder	Ardon Jashari	Luzern (SWI) 	20	1	0
+Midfielder	Fabian Rieder	Young Boys	20	0	0
+Midfielder	Xherdan Shaqiri 	Chicago Fire (USA)	31	109	26
+Midfielder	Ruben Vargas	Augsburg (GER)	24	27	4
+Midfielder	Edimilson Fernandes	Mainz (GER)	26	22	2
+Forward	Noah Okafor	RB Salzburg (AUT)	22	9	2
+Forward	Christian Fassnacht	Young Boys (SUI)	28	16	4
+Forward	Haris Seferovic	Galatasaray (TUR)	30	89	25
+Forward	Breel Embolo	Monaco (FRA)	25	59	11

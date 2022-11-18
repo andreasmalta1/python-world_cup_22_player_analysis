@@ -1,27 +1,27 @@
-Position	Player	Club	Age	Caps
-Goalkeeper	Wayne Hennessey	Nottingham Forest (ENG)	35	106
-Goalkeeper	Danny Ward	Leicester City (ENG)	29	26
-Goalkeeper	Adam Davies	Sheffield United (ENG)	30	3
-Defender	Ethan Ampadu	Spezia (ITA)	22	37
-Defender	Chris Mepham	Bournemouth (ENG)	24	33
-Defender	Ben Davies	Tottenham (SCO)	29	74
-Defender	Chris Gunter	Wimbledon (ENG)	33	109
-Defender	Connor Roberts	Burnley (ENG)	27	41
-Defender	Joe Rodon	Rennes (FRA)	24	30
-Defender	Neco Williams	Nottingham Forest (ENG)	21	23
-Defender	Ben Cabango	Swansea City (WAL)	22	5
-Defender	Tom Lockyer	Luton Town (ENG)	27	14
-Midfielder	Joe Allen	Swansea City (WAL)	32	72
-Midfielder	Aaron Ramsey	Nice (FRA)	31	75
-Midfielder	Harry Wilson	Fulham (ENG)	25	39
-Midfielder	Jonny Williams	Swindon Town (ENG)	29	33
-Midfielder	Joe Morrell	Portsmouth (ENG)	25	30
-Midfielder	Matthew Smith	MK Dons (ENG)	22	19
-Midfielder	Dylan Levitt	Dundee United (So)	21	13
-Midfielder	Ruben Colwill	Swansea City (ENG)	20	7
-Midfielder	Sorba Thomas	Huddersfield Town (ENG)	23	6
-Forward	Gareth Bale	Los Angeles FC (USA)	33	108
-Forward	Daniel James	Fulham (ENG)	24	38
-Forward	Kieffer Moore	Bournemouth (ENG)	30	28
-Forward	Brennan Johnson	Nottingham Forest (ENG)	21	15
-Forward	Mark Harris	Cardiff City (WAL)	23	5
+Position	Player	Club	Age	Caps	Goals
+Goalkeeper	Wayne Hennessey	Nottingham Forest (ENG)	35	106	0
+Goalkeeper	Danny Ward	Leicester City (ENG)	29	26	0
+Goalkeeper	Adam Davies	Sheffield United (ENG)	30	4	0
+Defender	Ethan Ampadu	Spezia (ITA)	22	37	0
+Defender	Chris Mepham	Bournemouth (ENG)	24	33	0
+Defender	Ben Davies	Tottenham (SCO)	29	74	1
+Defender	Chris Gunter	Wimbledon (ENG)	33	109	0
+Defender	Connor Roberts	Burnley (ENG)	27	41	3
+Defender	Joe Rodon	Rennes (FRA)	24	30	0
+Defender	Neco Williams	Nottingham Forest (ENG)	21	23	2
+Defender	Ben Cabango	Swansea City (WAL)	22	5	0
+Defender	Tom Lockyer	Luton Town (ENG)	27	14	0
+Midfielder	Joe Allen	Swansea City (WAL)	32	72	2
+Midfielder	Aaron Ramsey	Nice (FRA)	31	75	20
+Midfielder	Harry Wilson	Fulham (ENG)	25	39	5
+Midfielder	Jonny Williams	Swindon Town (ENG)	29	33	2
+Midfielder	Joe Morrell	Portsmouth (ENG)	25	30	0
+Midfielder	Matthew Smith	MK Dons (ENG)	22	19	0
+Midfielder	Dylan Levitt	Dundee United (So)	21	13	0
+Midfielder	Ruben Colwill	Swansea City (ENG)	20	7	1
+Midfielder	Sorba Thomas	Huddersfield Town (ENG)	23	6	0
+Forward	Gareth Bale	Los Angeles FC (USA)	33	108	39
+Forward	Daniel James	Fulham (ENG)	24	38	5
+Forward	Kieffer Moore	Bournemouth (ENG)	30	28	9
+Forward	Brennan Johnson	Nottingham Forest (ENG)	21	15	2
+Forward	Mark Harris	Cardiff City (WAL)	23	5	0

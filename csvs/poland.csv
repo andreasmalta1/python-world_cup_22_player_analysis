@@ -1,26 +1,27 @@
-Position	Player	Club	Age	Caps
-Goalkeeper	Wojciech Szczesny	Juventus (ITA)	32	66
-Goalkeeper	Lukasz Skorupski	Bologna (ITA) 	31	7
-Defender	Jan Bednarek	Aston Villa (ENG)	26	44
-Defender	Kamil Glik 	Benevento (ITA)	34	98
-Defender	Matty Cash	Aston Villa (ENG)	25	7
-Defender	Jakub Kiwior 	Spezia (ITA)	22	2
-Defender	Robert Gumny 	FC Augsburg (GER)	24	4
-Defender	Bartosz Bereszynski 	Sampdoria (ITA)	30	45
-Defender	Mateusz Wieteska	Clermont (FRA)	25	1
-Defender	Nicola Zalewski 	Roma (ITA) 	20	7
-Defender	Artur Jedrzejczyk	Legia Warsaw (POL)	34	40
-Midfielder	Michal Skoras	Lech Poznan (POL)	22	1
-Midfielder	Grzegorz Krychowiak	Al Shabab (KSA)	32	93
-Midfielder	Piotr Zielinski	Napoli (ITA)	28	74
-Midfielder	Krystian Bielik	Birmingham (ENG)	24	5
-Midfielder	Kamil Grosicki 	Pogon Szczecin (POL)	34	86
-Midfielder	Przemyslaw Frankowski	Lens (FRA)	27	25
-Midfielder	Sebastian Szymanski	Feyenoord (NED)	23	17
-Midfielder	Damian Szymanski	AEK Athens (GRE)	27	8
-Midfielder	Szymon Zurkowski	Fiorentina (ITA)	25	6
-Midfielder	Jakub Kaminski	Wolfsburg (GER)	20	3
-Forward	Krzysztof Piatek	Salernitana (ITA)	27	10
-Forward	Karol Swiderski 	Charlotte (USA)	25	17
-Forward	Arkadiusz Milik	Juventus (ITA)	28	63
-Forward	Robert Lewandowski	Barcelona (SPA)	34	134
+Position	Player	Club	Age	Caps	Goals
+Goalkeeper	Kamil Grabara	Copenhagen (DEN)	23	1	0
+Goalkeeper	Wojciech Szczesny	Juventus (ITA)	32	66	0
+Goalkeeper	Lukasz Skorupski	Bologna (ITA) 	31	8	0
+Defender	Jan Bednarek	Aston Villa (ENG)	26	45	1
+Defender	Kamil Glik 	Benevento (ITA)	34	99	6
+Defender	Matty Cash	Aston Villa (ENG)	25	7	1
+Defender	Jakub Kiwior 	Spezia (ITA)	22	5	0
+Defender	Robert Gumny 	FC Augsburg (GER)	24	5	0
+Defender	Bartosz Bereszynski 	Sampdoria (ITA)	30	46	0
+Defender	Mateusz Wieteska	Clermont (FRA)	25	2	0
+Defender	Nicola Zalewski 	Roma (ITA) 	20	7	0
+Defender	Artur Jedrzejczyk	Legia Warsaw (POL)	34	40	3
+Midfielder	Michal Skoras	Lech Poznan (POL)	22	1	0
+Midfielder	Grzegorz Krychowiak	Al Shabab (KSA)	32	94	5
+Midfielder	Piotr Zielinski	Napoli (ITA)	28	74	9
+Midfielder	Krystian Bielik	Birmingham (ENG)	24	5	0
+Midfielder	Kamil Grosicki 	Pogon Szczecin (POL)	34	87	17
+Midfielder	Przemyslaw Frankowski	Lens (FRA)	27	26	1
+Midfielder	Sebastian Szymanski	Feyenoord (NED)	23	18	1
+Midfielder	Damian Szymanski	AEK Athens (GRE)	27	9	1
+Midfielder	Szymon Zurkowski	Fiorentina (ITA)	25	7	0
+Midfielder	Jakub Kaminski	Wolfsburg (GER)	20	4	1
+Forward	Krzysztof Piatek	Salernitana (ITA)	27	25	11
+Forward	Karol Swiderski 	Charlotte (USA)	25	18	8
+Forward	Arkadiusz Milik	Juventus (ITA)	28	64	16
+Forward	Robert Lewandowski	Barcelona (SPA)	34	134	76

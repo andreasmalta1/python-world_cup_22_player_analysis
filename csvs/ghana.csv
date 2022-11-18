@@ -1,27 +1,27 @@
-Position	Player	Club	Age	Caps
-Goalkeeper	Abdul Manaf Nurudeen	Eupen (BEL)	23	2
-Goalkeeper	Ibrahim Danlad	Asante Kotoko (GHA)	19	0
-Goalkeeper	Lawrence Ati-Zigi	St Gallen (SUI)	25	2
-Defender	Denis Odoi	Club Brugge (BEL)	34	4
-Defender	Tariq Lamptey	Brighton (ENG)	22	1
-Defender	Alidu Seidu	Clermont (FRA)	22	1
-Defender	Daniel Amartey	Leicester City (ENG)	27	45
-Defender	Joseph Aidoo	Celta Vigo (SPA)	27	10
-Defender	Alexander Djiku	Strasbourg (FRA)	28	18
-Defender	Mohammed Salisu	Southampton (ENG)	23	2
-Defender	Baba Rahman	Reading (ENG)	28	44
-Defender	Gideon Mensah	Auxerre (FRA)	24	4
-Midfielder	Andre Ayew	Al Sadd (QAT)	32	109
-Midfielder	Thomas Partey	Arsenal (ENG)	29	40
-Midfielder	Elisha Owusu	Gent (BEL)	25	1
-Midfielder	Salis Abdul Samed	Lens (FRA)	22	0
-Midfielder	Mohammed Kudus	Ajax (NED)	22	18
-Midfielder	Daniel-Kofi Kyereh	Freiburg (GER)	26	3
-Forward	Daniel Afriyie Barnieh	Hearts of Oak (GHA)	21	5
-Forward	Kamal Sowah	Club Brugge (BEL)	22	0
-Forward	Abdul Fatawu Issahaku	Sporting CP (POR)	18	8
-Forward	Osman Bukari	Red Star (SER)	23	6
-Forward	Inaki Williams	Athletic Bilbao (SPA)	28	2
-Forward	Antoine Semenyo	Bristol City (ENG)	22	1
-Forward	Jordan Ayew	Crystal Palace (ENG)	31	83
-Forward	Kamaldeen Sulemana	Rennes (FRA)	20	11
+Position	Player	Club	Age	Caps	Goals
+Goalkeeper	Abdul Manaf Nurudeen	Eupen (BEL)	23	2	0
+Goalkeeper	Ibrahim Danlad	Asante Kotoko (GHA)	19	0	0
+Goalkeeper	Lawrence Ati-Zigi	St Gallen (SUI)	25	10	2
+Defender	Denis Odoi	Club Brugge (BEL)	34	4	0
+Defender	Tariq Lamptey	Brighton (ENG)	22	1	0
+Defender	Alidu Seidu	Clermont (FRA)	22	3	0
+Defender	Daniel Amartey	Leicester City (ENG)	27	46	0
+Defender	Joseph Aidoo	Celta Vigo (SPA)	27	10	0
+Defender	Alexander Djiku	Strasbourg (FRA)	28	18	1
+Defender	Mohammed Salisu	Southampton (ENG)	23	3	1
+Defender	Baba Rahman	Reading (ENG)	28	46	1
+Defender	Gideon Mensah	Auxerre (FRA)	24	12	0
+Midfielder	Andre Ayew	Al Sadd (QAT)	32	110	23
+Midfielder	Thomas Partey	Arsenal (ENG)	29	40	13
+Midfielder	Elisha Owusu	Gent (BEL)	25	2	0
+Midfielder	Salis Abdul Samed	Lens (FRA)	22	1	0
+Midfielder	Mohammed Kudus	Ajax (NED)	22	18	5
+Midfielder	Daniel-Kofi Kyereh	Freiburg (GER)	26	14	0
+Forward	Daniel Afriyie Barnieh	Hearts of Oak (GHA)	21	6	2
+Forward	Kamal Sowah	Club Brugge (BEL)	22	2	0
+Forward	Abdul Fatawu Issahaku	Sporting CP (POR)	18	13	1
+Forward	Osman Bukari	Red Star (SER)	23	7	1
+Forward	Inaki Williams	Athletic Bilbao (SPA)	28	2	0
+Forward	Antoine Semenyo	Bristol City (ENG)	22	4	1
+Forward	Jordan Ayew	Crystal Palace (ENG)	31	84	19
+Forward	Kamaldeen Sulemana	Rennes (FRA)	20	12	0

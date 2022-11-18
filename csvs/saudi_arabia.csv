@@ -1,27 +1,27 @@
-Position	Player	Club	Age	Caps
-Goalkeeper	Mohamed Al-Owais	Al Hilal (KSA)	31	33
-Goalkeeper	Nawaf Al-Aqidi	Al Nassr (KSA)	22	0
-Goalkeeper	Mohammed Al-Yami	Al Ahli (KSA)	25	7
-Defender	Yasser Al-Shahrani	Al Hilal (KSA)	30	61
-Defender	Ali Al-Boleahi	Al Hilal (KSA)	32	28
-Defender	Abdulelah Al-Amri	Al Nassr (KSA)	25	13
-Defender	Abdullah Madu	Al Nassr (KSA)	29	12
-Defender	Hassan Tambakti	Al Shabab (KSA)	23	11
-Defender	Sultan Al-Ghannam	Al Nassr (KSA)	28	17
-Defender	Mohammed Al-Burayk	Al Hilal (KSA)	30	28
-Defender	Saud Abdulhamid	Al Hilal (KSA)	23	14
-Midfielder	Salman Al-Faraj	Al Hilal (KSA)	33	56
-Midfielder	Riyadh Sharahili	Abha (KSA)	29	2
-Midfielder	Ali Al-Hassan	Al Nassr (KSA)	25	9
-Midfielder	Mohamed Kanno	Al Hilal (KSA)	28	25
-Midfielder	Abdulelah Al-Malki	Al Hilal (KSA)	28	16
-Midfielder	Sami Al-Najei	Al Nassr (KSA)	25	14
-Midfielder	Abdullah Otayf	Al Hilal (KSA)	30	37
-Midfielder	Nasser Al-Dawsari	Al Hilal (KSA)	23	8
-Midfielder	Abdulrahman Al-Obood	Al Ittihad (KSA)	27	1
-Midfielder	Salem Al-Dawsari	Al Hilal (KSA)	31	53
-Midfielder	Hattan Bahebri	Al Shabab (KSA)	30	30
-Forward	Fahad Al-Muwallad	Al Shabab (KSA)	28	62
-Forward	Haitham Asiri	Al Ahli (KSA)	21	4
-Forward	Saleh Al-Shehri	Al Hilal (KSA)	29	10
-Forward	Firas Al-Buraikan	Al Fateh (KSA)	22	20
+Position	Player	Club	Age	Caps	Goals
+Goalkeeper	Mohamed Al-Owais	Al Hilal (KSA)	31	42	0
+Goalkeeper	Nawaf Al-Aqidi	Al Nassr (KSA)	22	0	0
+Goalkeeper	Mohammed Al-Yami	Al Ahli (KSA)	25	7	0
+Defender	Yasser Al-Shahrani	Al Hilal (KSA)	30	72	2
+Defender	Ali Al-Boleahi	Al Hilal (KSA)	32	37	0
+Defender	Abdulelah Al-Amri	Al Nassr (KSA)	25	20	1
+Defender	Abdullah Madu	Al Nassr (KSA)	29	15	0
+Defender	Hassan Tambakti	Al Shabab (KSA)	23	19	0
+Defender	Sultan Al-Ghannam	Al Nassr (KSA)	28	24	0
+Defender	Mohammed Al-Burayk	Al Hilal (KSA)	30	40	1
+Defender	Saud Abdulhamid	Al Hilal (KSA)	23	23	1
+Midfielder	Salman Al-Faraj	Al Hilal (KSA)	33	70	8
+Midfielder	Riyadh Sharahili	Abha (KSA)	29	5	0
+Midfielder	Ali Al-Hassan	Al Nassr (KSA)	25	13	1
+Midfielder	Mohamed Kanno	Al Hilal (KSA)	28	38	1
+Midfielder	Abdulelah Al-Malki	Al Hilal (KSA)	28	27	0
+Midfielder	Sami Al-Najei	Al Nassr (KSA)	25	17	2
+Midfielder	Abdullah Otayf	Al Hilal (KSA)	30	45	1
+Midfielder	Nasser Al-Dawsari	Al Hilal (KSA)	23	10	2
+Midfielder	Abdulrahman Al-Obood	Al Ittihad (KSA)	27	2	0
+Midfielder	Salem Al-Dawsari	Al Hilal (KSA)	31	71	17
+Midfielder	Hattan Bahebri	Al Shabab (KSA)	30	41	4
+Forward	Nawaf Al-Abed	Al Shabab (KSA)	32	55	8
+Forward	Haitham Asiri	Al Ahli (KSA)	21	8	1
+Forward	Saleh Al-Shehri	Al Hilal (KSA)	29	20	10
+Forward	Firas Al-Buraikan	Al Fateh (KSA)	22	27	6

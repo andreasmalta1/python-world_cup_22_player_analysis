@@ -1,27 +1,27 @@
-Position	Player	Club	Age	Caps
-Goalkeeper	Maty Ryan	FC Copenhagen (DEN)	30	75
-Goalkeeper	Andrew Redmayne	Sydney FC (AUS)	33	3
-Goalkeeper	Danny Vukovic	Central Coast Mariners (AUS)	37	4
-Defender	Milos Degenek	Columbus Crew (USA)	28	38
-Defender	Aziz Behich	Dundee United (SCO)	31	53
-Defender	Joel King	OB (DAN)	21	3
-Defender	Nathaniel Atkinson	Hearts (SCO)	23	5
-Defender	Fran Karacic	Brescia (ITA)	26	10
-Defender	Harry Souttar	Stoke City (ENG)	23	10
-Defender	Kye Rowles	Hearts (SCO)	24	3
-Defender	Bailey Wright	Sunderland (ENG)	30	27
-Defender	Thomas Deng	Albirex Niigata (JAP)	25	2
-Midfielder	Aaron Mooy	Celtic (SCO)	32	53
-Midfielder	Jackson Irvine	St Pauli (GER)	29	49
-Midfielder	Ajdin Hrustic	Hellas Verona (ITA)	26	20
-Midfielder	Keanu Baccus	St Mirren (SCO)	29	53
-Midfielder	Cameron Devlin	Hearts (SCO)	24	1
-Midfielder	Riley McGree	Middlesbrough (ENG)	23	10
-Forward	Awer Mabil	Cadiz (SPA)	27	29
-Forward	Mathew Leckie	Melbourne City (AUS)	31	72
-Forward	Martin Boyle	Hibernian (SCO)	29	19
-Forward	Jamie Maclaren	Melbourne City (AUS)	29	26
-Forward	Jason Cummings	Central Coast Mariners (AUS)	27	1
-Forward	Mitchell Duke	Fagiano Okayama (JAP)	31	20
-Forward	Garang Kuol	Central Coast Mariners (AUS)	18	1
-Forward	Craig Goodwin	Adelaide United (AUS)	30	1
+Position	Player	Club	Age	Caps	Goals
+Goalkeeper	Maty Ryan	FC Copenhagen (DEN)	30	75	0
+Goalkeeper	Andrew Redmayne	Sydney FC (AUS)	33	4	0
+Goalkeeper	Danny Vukovic	Central Coast Mariners (AUS)	37	4	0
+Defender	Milos Degenek	Columbus Crew (USA)	28	38	1
+Defender	Aziz Behich	Dundee United (SCO)	31	53	2
+Defender	Joel King	OB (DAN)	21	4	0
+Defender	Nathaniel Atkinson	Hearts (SCO)	23	5	0
+Defender	Fran Karacic	Brescia (ITA)	26	11	1
+Defender	Harry Souttar	Stoke City (ENG)	23	10	6
+Defender	Kye Rowles	Hearts (SCO)	24	3	0
+Defender	Bailey Wright	Sunderland (ENG)	30	27	2
+Defender	Thomas Deng	Albirex Niigata (JAP)	25	2	0
+Midfielder	Aaron Mooy	Celtic (SCO)	32	53	7
+Midfielder	Jackson Irvine	St Pauli (GER)	29	49	7
+Midfielder	Ajdin Hrustic	Hellas Verona (ITA)	26	20	3
+Midfielder	Keanu Baccus	St Mirren (SCO)	29	1	0
+Midfielder	Cameron Devlin	Hearts (SCO)	24	1	0
+Midfielder	Riley McGree	Middlesbrough (ENG)	23	11	1
+Forward	Awer Mabil	Cadiz (SPA)	27	29	8
+Forward	Mathew Leckie	Melbourne City (AUS)	31	73	13
+Forward	Martin Boyle	Hibernian (SCO)	29	19	5
+Forward	Jamie Maclaren	Melbourne City (AUS)	29	26	8
+Forward	Jason Cummings	Central Coast Mariners (AUS)	27	1	1
+Forward	Mitchell Duke	Fagiano Okayama (JAP)	31	21	8
+Forward	Garang Kuol	Central Coast Mariners (AUS)	18	1	0
+Forward	Craig Goodwin	Adelaide United (AUS)	30	10	1

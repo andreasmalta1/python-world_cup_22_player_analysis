@@ -1,27 +1,27 @@
-Position	Player	Club	Age	Caps
-Goalkeeper	Esteban Alvarado	Herediano (CRC)	33	24
-Goalkeeper	Keylor Navas	PSG (FRA)	35	107
-Goalkeeper	Patrick Sequeira	CD Lugo (SPA)	23	2
-Defender	Francisco Calvo	Konyaspor (TUR)	30	75
-Defender	Daniel Chacon	Colorado Rapids (USA)	21	8
-Defender	Oscar Duarte	Al Wehda (KSA)	33	70
-Defender	Keysher Fuller	Herediano (CRC)	28	29
-Defender	Carlos Martinez	San Carlos (CRC)	23	5
-Defender	Ronald Matarrita	FC Cincinnati (USA)	28	52
-Defender	Bryan Oviedo	Real Salt Lake (USA)	32	74
-Defender	Juan Pablo Vargas	Millonarios (COL)	27	11
-Defender	Kendall Waston	Saprissa (CRC)	34	61
-Midfielder	Brandon Aguilera	Guanacasteca (CRC)	19	4
-Midfielder	Jewison Bennette	Sunderland (ENG)	18	7
-Midfielder	Celso Borges	Alajuelense (CRC)	34	154
-Midfielder	Anthony Hernandez	Puntarenas (CRC)	21	2
-Midfielder	Douglas Lopez	Herediano (CRC)	24	2
-Midfielder	Bryan Ruiz	Alajuelense (CRC)	37	144
-Midfielder	Youstin Salas	Saprissa (CRC)	26	3
-Midfielder	Yeltsin Tejeda	Herediano (CRC)	30	73
-Midfielder	Gerson Torres	Herediano (CRC)	25	12
-Midfielder	Roan Wilson	Grecia (CRC)	20	2
-Midfielder	Alvaro Zamora	Saprissa (CRC)	20	2
-Forward	Joel Campbell	Club Leon (MEX)	30	118
-Forward	Anthony Contreras	Herediano (CRC)	22	8
-Forward	Johan Venegas	Alajuelense (CRC)	33	80
+Position	Player	Club	Age	Caps	Goals
+Goalkeeper	Esteban Alvarado	Herediano (CRC)	33	24	0
+Goalkeeper	Keylor Navas	PSG (FRA)	35	107	0
+Goalkeeper	Patrick Sequeira	CD Lugo (SPA)	23	2	0
+Defender	Francisco Calvo	Konyaspor (TUR)	30	75	8
+Defender	Daniel Chacon	Colorado Rapids (USA)	21	8	0
+Defender	Oscar Duarte	Al Wehda (KSA)	33	71	3
+Defender	Keysher Fuller	Herediano (CRC)	28	30	2
+Defender	Carlos Martinez	San Carlos (CRC)	23	6	0
+Defender	Ronald Matarrita	FC Cincinnati (USA)	28	52	3
+Defender	Bryan Oviedo	Real Salt Lake (USA)	32	75	2
+Defender	Juan Pablo Vargas	Millonarios (COL)	27	12	1
+Defender	Kendall Waston	Saprissa (CRC)	34	61	7
+Midfielder	Brandon Aguilera	Guanacasteca (CRC)	19	4	0
+Midfielder	Jewison Bennette	Sunderland (ENG)	18	7	2
+Midfielder	Celso Borges	Alajuelense (CRC)	34	155	27
+Midfielder	Anthony Hernandez	Puntarenas (CRC)	21	2	1
+Midfielder	Douglas Lopez	Herediano (CRC)	24	2	0
+Midfielder	Bryan Ruiz	Alajuelense (CRC)	37	144	29
+Midfielder	Youstin Salas	Saprissa (CRC)	26	3	0
+Midfielder	Yeltsin Tejeda	Herediano (CRC)	30	72	0
+Midfielder	Gerson Torres	Herediano (CRC)	25	13	1
+Midfielder	Roan Wilson	Grecia (CRC)	20	2	0
+Midfielder	Alvaro Zamora	Saprissa (CRC)	20	2	0
+Forward	Joel Campbell	Club Leon (MEX)	30	118	25
+Forward	Anthony Contreras	Herediano (CRC)	22	9	2
+Forward	Johan Venegas	Alajuelense (CRC)	33	81	11

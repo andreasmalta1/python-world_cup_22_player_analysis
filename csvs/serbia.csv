@@ -1,27 +1,27 @@
-Position	Player	Club	Age	Caps
-Goalkeeper	Marko Dmitrovic	Sevilla (SPA)	30	19
-Goalkeeper	Vanja Milinkovic-Savic	Torino (ITA)	25	6
-Goalkeeper	Predrag Rajkovic	Mallorca (SPA) 	27	28
-Defender	Stefan Mitrovic	Getafe (SPA)	32	34
-Defender	Strahinja Pavlovic	RB Salzburg (AUS)	21	21
-Defender	Milos Veljkovic	Werder Bremen (GER)	27	21
-Defender	Filip Mladenovic	Legia Warsaw (POL)	31	19
-Defender	Strahinja Erakovic	Red Star Belgrade (SER)	21	1
-Defender	Srdan Babic	Almeria (SPA)	26	2
-Defender	Nikola Milenkovic	Fiorentina (ITA)	25	37
-Midfielder	Dusan Tadic 	Ajax (NED)	33	90
-Midfielder	Filip Kostic 	Juventus (ITA)	29	50
-Midfielder	Nemanja Maksimovic 	Getafe (SPA)	27	39
-Midfielder	Filip Duricic 	Sampdoria (ITA)	30	36
-Midfielder	Sasa Lukic 	Torino (ENG)	26	32
-Midfielder	Andrija Zivkovic 	PAOK (GRE)	26	28
-Midfielder	Darko Lazovic 	Verona (ITA)	32	25
-Midfielder	Sergej Milinkovic-Savic 	Lazio (ITA)	27	35
-Midfielder	Nemandja Gudelj 	Sevilla (SPA)	30	48
-Midfielder	Marko Grujic 	Porto (POR)	26	17
-Midfielder	Uros Racic 	Braga (POR)	24	9
-Midfielder	Ivan Ilic	Verona (ITA)	21	5
-Forward	Aleksandar Mitrovic 	Fulham (ENG)	28	76
-Forward	Luka Jovic 	Fiorentina (ITA)	24	28
-Forward	Dusan Vlahovic 	Juventus (ITA)	22	16
-Forward	Nemanja Radonjic 	Marseille (FRA)	26	36
+Position	Player	Club	Age	Caps	Goals
+Goalkeeper	Marko Dmitrovic	Sevilla (SPA)	30	19	0
+Goalkeeper	Vanja Milinkovic-Savic	Torino (ITA)	25	6	0
+Goalkeeper	Predrag Rajkovic	Mallorca (SPA) 	27	28	0
+Defender	Stefan Mitrovic	Getafe (SPA)	32	34	0
+Defender	Strahinja Pavlovic	RB Salzburg (AUS)	21	21	1
+Defender	Milos Veljkovic	Werder Bremen (GER)	27	21	1
+Defender	Filip Mladenovic	Legia Warsaw (POL)	31	19	1
+Defender	Strahinja Erakovic	Red Star Belgrade (SER)	21	1	0
+Defender	Srdan Babic	Almeria (SPA)	26	2	0
+Defender	Nikola Milenkovic	Fiorentina (ITA)	25	37	3
+Midfielder	Dusan Tadic 	Ajax (NED)	33	90	18
+Midfielder	Filip Kostic 	Juventus (ITA)	29	50	3
+Midfielder	Nemanja Maksimovic 	Getafe (SPA)	27	39	0
+Midfielder	Filip Duricic 	Sampdoria (ITA)	30	36	4
+Midfielder	Sasa Lukic 	Torino (ENG)	26	32	2
+Midfielder	Andrija Zivkovic 	PAOK (GRE)	26	28	1
+Midfielder	Darko Lazovic 	Verona (ITA)	32	26	0
+Midfielder	Sergej Milinkovic-Savic 	Lazio (ITA)	27	35	6
+Midfielder	Nemandja Gudelj 	Sevilla (SPA)	30	48	1
+Midfielder	Marko Grujic 	Porto (POR)	26	17	0
+Midfielder	Uros Racic 	Braga (POR)	24	9	0
+Midfielder	Ivan Ilic	Verona (ITA)	21	5	0
+Forward	Aleksandar Mitrovic 	Fulham (ENG)	28	76	50
+Forward	Luka Jovic 	Fiorentina (ITA)	24	28	9
+Forward	Dusan Vlahovic 	Juventus (ITA)	22	16	8
+Forward	Nemanja Radonjic 	Marseille (FRA)	26	36	5

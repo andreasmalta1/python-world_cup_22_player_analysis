@@ -1,27 +1,27 @@
-Position	Player	Club	Age	Caps
-Goalkeeper	Alexander Dominguez	Deportes Tolima (ECU)	35	67
-Goalkeeper	Hernan Galindez	Aucas (ECU)	35	12
-Goalkeeper	Moises Ramirez	Independiente (ECU)	22	2
-Defender	Robert Arboleda	Sao Paulo (BRA)	31	32
-Defender	Xavier Arreaga	Seattle Sounders (USA)	28	17
-Defender	Pervis Estupinan	Brighton (ENG)	24	28
-Defender	Piero Hincapie	Bayer Leverkusen (GER)	20	21
-Defender	William Pacho	Royal Antwerp (BEL)	21	0
-Defender	Diego Palacios	LAFC (USA)	23	11
-Defender	Jackson Porozo	Troyes (FRA)	22	5
-Defender	Angelo Preciado	Genk (BEL)	24	25
-Defender	Felix Torres	Santos Laguna (MEX)	25	16
-Midfielder	Moises Caicedo	Brighton (ENG)	20	25
-Midfielder	Jose Cifuentes	LAFC (USA)	23	10
-Midfielder	Alan Franco	Talleres (ARG)	24	23
-Midfielder	Carlos Gruezo	Augsburg (GER)	27	45
-Midfielder	Jhegson Mendez	LAFC (USA)	25	31
-Midfielder	Ayrton Preciado	Santos Laguna (MEX)	28	27
-Midfielder	Jeremy Sarmiento	Brighton (ENG)	20	9
-Forward	Michael Estrada	Cruz Azul (MEX)	26	36
-Forward	Romario Ibarra	Pachuca (MEX)	28	24
-Forward	Angel Mena	Club Leon (MEX)	34	45
-Forward	Gonzalo Plata	Real Valladolid (SPA)	21	29
-Forward	Djorkaeff Reasco	Newell's Old Boys (ARG)	23	3
-Forward	Kevin Rodriguez	Imbabura SC (ECU)	22	0
-Forward	Enner Valencia	Fenerbahce (TUR)	33	74
+Position	Player	Club	Age	Caps	Goals
+Goalkeeper	Alexander Dominguez	Deportes Tolima (ECU)	35	68	0
+Goalkeeper	Hernan Galindez	Aucas (ECU)	35	12	0
+Goalkeeper	Moises Ramirez	Independiente (ECU)	22	2	0
+Defender	Robert Arboleda	Sao Paulo (BRA)	31	33	2
+Defender	Xavier Arreaga	Seattle Sounders (USA)	28	18	1
+Defender	Pervis Estupinan	Brighton (ENG)	24	28	3
+Defender	Piero Hincapie	Bayer Leverkusen (GER)	20	21	1
+Defender	William Pacho	Royal Antwerp (BEL)	21	0	0
+Defender	Diego Palacios	LAFC (USA)	23	12	0
+Defender	Jackson Porozo	Troyes (FRA)	22	5	0
+Defender	Angelo Preciado	Genk (BEL)	24	26	0
+Defender	Felix Torres	Santos Laguna (MEX)	25	17	2
+Midfielder	Moises Caicedo	Brighton (ENG)	20	25	2
+Midfielder	Jose Cifuentes	LAFC (USA)	23	11	0
+Midfielder	Alan Franco	Talleres (ARG)	24	25	1
+Midfielder	Carlos Gruezo	Augsburg (GER)	27	46	1
+Midfielder	Jhegson Mendez	LAFC (USA)	25	32	0
+Midfielder	Ayrton Preciado	Santos Laguna (MEX)	28	27	3
+Midfielder	Jeremy Sarmiento	Brighton (ENG)	20	9	0
+Forward	Michael Estrada	Cruz Azul (MEX)	26	36	8
+Forward	Romario Ibarra	Pachuca (MEX)	28	25	3
+Forward	Angel Mena	Club Leon (MEX)	34	46	7
+Forward	Gonzalo Plata	Real Valladolid (SPA)	21	30	5
+Forward	Djorkaeff Reasco	Newell's Old Boys (ARG)	23	4	0
+Forward	Kevin Rodriguez	Imbabura SC (ECU)	22	1	0
+Forward	Enner Valencia	Fenerbahce (TUR)	33	74	35

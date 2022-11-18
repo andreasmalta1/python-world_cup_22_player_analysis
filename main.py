@@ -71,6 +71,15 @@ def get_csvs():
 
     return df_list
 
+def annotations(ax):
+    ax.annotate('Data from sportingnews.com', (0,0), (0,-40), fontsize=12, 
+                xycoords='axes fraction', textcoords='offset points', va='top', color='navajowhite')
+    ax.annotate('Data Viz by Andreas Calleja @andreascalleja', (0,0), (0,-60), fontsize=12,
+                xycoords='axes fraction', textcoords='offset points', va='top', color='navajowhite')
+    ax.annotate('Data correct as of squad announcements', (0,0), (0,-80), fontsize=12, 
+                xycoords='axes fraction', textcoords='offset points', va='top', color='navajowhite')
+
+
 def get_age(df_list):
     df_age = pd.DataFrame(columns=['Country','Age'])
     for df in df_list:
@@ -83,7 +92,19 @@ def get_age(df_list):
     return df_age.sort_values(by=['Age'])
 
 
-def get_plot(df, filename):
+def get_total(df_list, column_name):
+    df_total = pd.DataFrame(columns=['Country', column_name])
+    for df in df_list:
+        country = df.iloc[0, df.columns.get_loc('Country')]
+        total = df[column_name].sum()
+        row = {'Country': country, column_name: total}
+        concat_df = pd.DataFrame([row])
+        df_total = pd.concat([df_total, concat_df], ignore_index=True)
+    
+    return df_total.sort_values(by=[column_name])
+
+
+def get_age_plot(df, filename):
     fig = plt.figure(figsize=(25,22), dpi=300, tight_layout=True)
     fig.patch.set_facecolor('dimgray')
     
@@ -96,10 +117,10 @@ def get_plot(df, filename):
     for s in ['top', 'bottom', 'left', 'right']:
         ax.spines[s].set_visible(False)
         
-        bars = ax.barh(df["Country"], df["Age"], color=team_colours(df["Country"]), height=0.75, align='center')
-        ax.bar_label(bars, size=16, color='darkorange')
-        ax.axis(xmin=24, xmax=29)
-        ax.grid(False)
+    bars = ax.barh(df["Country"], df["Age"], color=team_colours(df["Country"]), height=0.75, align='center')
+    ax.bar_label(bars, size=16, color='darkorange')
+    ax.axis(xmin=24, xmax=29)
+    ax.grid(False)
         
     for label in (ax.get_xticklabels() + ax.get_yticklabels()):
         label.set_fontsize(14)
@@ -119,12 +140,48 @@ def get_plot(df, filename):
     ax.text(0.65, 0.5, textstr, transform=ax.transAxes, fontsize=25,
         verticalalignment='top', bbox=props)
         
-    ax.annotate('Data from sportingnews.com', (0,0), (0,-40), fontsize=12, 
-                xycoords='axes fraction', textcoords='offset points', va='top', color='navajowhite')
-    ax.annotate('Data Viz by Andreas Calleja @andreascalleja', (0,0), (0,-60), fontsize=12,
-                xycoords='axes fraction', textcoords='offset points', va='top', color='navajowhite')
-    ax.annotate('Data correct as of squad announcements', (0,0), (0,-80), fontsize=12, 
-                xycoords='axes fraction', textcoords='offset points', va='top', color='navajowhite')
+    annotations(ax)
+                
+    fig.savefig(f'figures/{filename}.png', bbox_inches='tight')
+
+
+def get_total_plot(df, column_name, filename):
+    fig = plt.figure(figsize=(25,22), dpi=300, tight_layout=True)
+    fig.patch.set_facecolor('dimgray')
+    
+    ax = fig.add_subplot()
+    ax.set_facecolor('dimgray')
+    ax.set_title(f'Total International {column_name} of World Cup Squads', size=32, color='darkorange', pad=-20)
+    ax.set_xlabel(f'Total International {column_name}', size=18, color='darkorange')
+    ax.set_ylabel('Countries', size=18, color='darkorange')
+    
+    for s in ['top', 'bottom', 'left', 'right']:
+        ax.spines[s].set_visible(False)
+        
+    bars = ax.barh(df["Country"], df[column_name], color=team_colours(df["Country"]), height=0.75, align='center')
+    ax.bar_label(bars, size=16, color='darkorange')
+    ax.grid(False)
+        
+    for label in (ax.get_xticklabels() + ax.get_yticklabels()):
+        label.set_fontsize(14)
+        label.set_color('navajowhite')
+
+    
+        
+    fig.subplots_adjust(top=0.8)
+    
+    # textstr = '\n'.join((
+    #     f'Oldest Squad: {max_age["Country"]}. Average Age: {max_age["Age"]:.2f}',
+    #     f'\n',
+    #     f'Youngest Squad: {min_age["Country"]}. Average Age: {min_age["Age"]:.2f}'))
+        
+    # props = dict(boxstyle='round', facecolor='wheat', alpha=0.5)
+    # ax.text(0.65, 0.5, textstr, transform=ax.transAxes, fontsize=25,
+    #     verticalalignment='top', bbox=props)
+
+    annotations(ax)
+        
+    
                 
     fig.savefig(f'figures/{filename}.png', bbox_inches='tight')
 
@@ -143,9 +200,14 @@ def overlay_logo(filename):
 def main():
     df_list = get_csvs()
     df_age = get_age(df_list)
-    filename = 'world_cup'
-    get_plot(df_age, filename)
-    overlay_logo(filename)
+    get_age_plot(df_age, 'world_cup_average_age')
+    overlay_logo('world_cup_average_age')
+    for column_name in ['Caps', 'Goals']:
+        df = get_total(df_list, column_name)
+        get_total_plot(df, column_name, f'world_cup_total_{column_name.lower()}')
+        overlay_logo(f'world_cup_total_{column_name.lower()}')
+
+    # Retrieve most capped player and number of players with 0 caps
 
 
 main()
