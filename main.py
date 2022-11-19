@@ -94,14 +94,19 @@ def get_age(df_list):
 
 def get_total(df_list, column_name):
     df_total = pd.DataFrame(columns=['Country', column_name])
+    max_dict = {'Player': '', 'max_figure': 0}
     for df in df_list:
         country = df.iloc[0, df.columns.get_loc('Country')]
         total = df[column_name].sum()
         row = {'Country': country, column_name: total}
         concat_df = pd.DataFrame([row])
         df_total = pd.concat([df_total, concat_df], ignore_index=True)
-    
-    return df_total.sort_values(by=[column_name])
+        df_max = df.loc[df[column_name].idxmax()]
+        if df_max[column_name] > max_dict['max_figure']:
+            max_dict['Player'] = df_max['Player']
+            max_dict['max_figure'] = df_max[column_name]
+
+    return df_total.sort_values(by=[column_name]), max_dict
 
 
 def get_age_plot(df, filename):
@@ -145,7 +150,7 @@ def get_age_plot(df, filename):
     fig.savefig(f'figures/{filename}.png', bbox_inches='tight')
 
 
-def get_total_plot(df, column_name, filename):
+def get_total_plot(df, column_name, filename, max_dict):
     fig = plt.figure(figsize=(25,22), dpi=300, tight_layout=True)
     fig.patch.set_facecolor('dimgray')
     
@@ -161,27 +166,20 @@ def get_total_plot(df, column_name, filename):
     bars = ax.barh(df["Country"], df[column_name], color=team_colours(df["Country"]), height=0.75, align='center')
     ax.bar_label(bars, size=16, color='darkorange')
     ax.grid(False)
-        
+
     for label in (ax.get_xticklabels() + ax.get_yticklabels()):
         label.set_fontsize(14)
         label.set_color('navajowhite')
 
-    
-        
     fig.subplots_adjust(top=0.8)
-    
-    # textstr = '\n'.join((
-    #     f'Oldest Squad: {max_age["Country"]}. Average Age: {max_age["Age"]:.2f}',
-    #     f'\n',
-    #     f'Youngest Squad: {min_age["Country"]}. Average Age: {min_age["Age"]:.2f}'))
+
+    textstr = (f'Most International {column_name}:\n{max_dict["Player"]}: {max_dict["max_figure"]} {column_name.lower()}')
         
-    # props = dict(boxstyle='round', facecolor='wheat', alpha=0.5)
-    # ax.text(0.65, 0.5, textstr, transform=ax.transAxes, fontsize=25,
-    #     verticalalignment='top', bbox=props)
+    props = dict(boxstyle='round', facecolor='wheat', alpha=0.5)
+    ax.text(0.7, 0.5, textstr, transform=ax.transAxes, fontsize=30,
+        verticalalignment='top', bbox=props)
 
     annotations(ax)
-        
-    
                 
     fig.savefig(f'figures/{filename}.png', bbox_inches='tight')
 
@@ -203,11 +201,11 @@ def main():
     get_age_plot(df_age, 'world_cup_average_age')
     overlay_logo('world_cup_average_age')
     for column_name in ['Caps', 'Goals']:
-        df = get_total(df_list, column_name)
-        get_total_plot(df, column_name, f'world_cup_total_{column_name.lower()}')
+        df, max_dict = get_total(df_list, column_name)
+        get_total_plot(df, column_name, f'world_cup_total_{column_name.lower()}', max_dict)
         overlay_logo(f'world_cup_total_{column_name.lower()}')
 
-    # Retrieve most capped player and number of players with 0 caps
+    # Retrieve most capped player and player with most goals
 
 
 main()
